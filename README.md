@@ -39,7 +39,7 @@
 ```
 
 
-### Steps to install and run Backend:
+### Steps to install and run backend:
 
 1. Open backend folder in vscode 
 
