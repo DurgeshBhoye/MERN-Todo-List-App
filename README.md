@@ -17,7 +17,7 @@
 ## Installation
 
 
-### Steps to install and run frontend:
+### Steps to configure and run frontend:
 
 1. Open frontend folder in vscode 
 
@@ -39,7 +39,7 @@
 ```
 
 
-### Steps to install and run backend:
+### Steps to configure and run backend:
 
 1. Open backend folder in vscode 
 
