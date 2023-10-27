@@ -21,7 +21,7 @@
 
 1. Open frontend folder in vscode 
 
-2. Open a new terminal and run
+2. Open a new terminal and run following commands,
 
 ```bash
   cd frontend
@@ -32,7 +32,7 @@
 ```
 
 
-3. Run frontend using command
+3. Run frontend using below command,
 
 ```bash
   npm start
@@ -43,7 +43,7 @@
 
 1. Open backend folder in vscode 
 
-2. Open a new terminal and run
+2. Open a new terminal and run following commands,
 
 ```bash
   cd backend
@@ -58,7 +58,7 @@
 ```
 
 
-3. Run backend using command
+3. Run backend using below command,
 
 ```bash
   nodemon index.js
