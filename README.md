@@ -14,7 +14,6 @@
 **Database:** MongoDB 
 
 
-
 ## Installation
 
 
@@ -59,7 +58,7 @@
 ```
 
 
-3. Run frontend using command
+3. Run backend using command
 
 ```bash
   nodemon index.js
