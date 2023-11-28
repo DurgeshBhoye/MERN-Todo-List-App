@@ -4,7 +4,8 @@
   "description": "react todo list app backend",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js",
+    "build": "npm i"
   },
   "author": "durgesh bhoye",
   "license": "ISC",
