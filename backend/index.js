@@ -2,12 +2,17 @@ const express = require("express");
 const mongoose = require("mongoose");
 const cors = require("cors");
 
+
+require('dotenv').config();
+
 // An instance of Express app
 const app = express();
-const port = 5050;
+const port = 3005;
+
+const DB = process.env.MONGO_DB_URL            // database to connect to
 
 // Connect to the MongoDB database
-mongoose.connect("mongodb://127.0.0.1:27017/todolist", {
+mongoose.connect(DB, {
     useNewUrlParser: true,
     useUnifiedTopology: true,
 });
